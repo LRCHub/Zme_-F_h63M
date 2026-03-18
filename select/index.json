@@ -1,0 +1,64 @@
+{
+  "version": 1,
+  "base_track": "ITEM",
+  "base_artist": "Stray Kids",
+  "createdAt": "2026-03-18T05:49:37.493517Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Collector's Item",
+      "artist": "Alexis Taylor",
+      "has_synced": false,
+      "path": "select/01_Collector's_Item_Alexis_Taylor.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "n.ie (next item exchange)",
+      "artist": "lost spaces",
+      "has_synced": false,
+      "path": "select/02_n.ie_(next_item_exchange)_lost_spaces.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Only One Little Item",
+      "artist": "Bobby Darin",
+      "has_synced": false,
+      "path": "select/03_Only_One_Little_Item_Bobby_Darin.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "ITEM",
+      "artist": "Stray Kids",
+      "has_synced": true,
+      "path": "select/04_ITEM_Stray_Kids.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "My own short news item",
+      "artist": "Empyr",
+      "has_synced": false,
+      "path": "select/05_My_own_short_news_item_Empyr.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Wrong Item",
+      "artist": "Fievel Is Glauque",
+      "has_synced": false,
+      "path": "select/06_Wrong_Item_Fievel_Is_Glauque.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ITEM",
+      "artist": "Stray Kids",
+      "has_synced": false,
+      "path": "select/pl_01_ITEM_Stray_Kids.txt"
+    }
+  ]
+}
